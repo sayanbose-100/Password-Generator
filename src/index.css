@@ -15,7 +15,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-image: url("/src/assets/images/background_image.jpg");
+  background-image: url("/public/images/background_image.jpg");
 }
 
 .outer-container {
